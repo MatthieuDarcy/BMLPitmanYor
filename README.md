@@ -1,12 +1,16 @@
 # BMLPitmanYor
 Project BML on Pitman-Yor process
 
+## Advisors
+
+
+
 ## Students :
 DARCY Matthieu
 
 DOIZE Antoine
 
-Oriol Benoit
+ORIOL Benoit
 
 # Temporary plan
 
