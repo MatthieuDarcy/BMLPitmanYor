@@ -1,6 +1,13 @@
 # BMLPitmanYor
 Project BML on Pitman-Yor process
 
+## Students :
+DARCY Matthieu
+
+DOIZE Antoine
+
+Oriol Benoit
+
 # Temporary plan
 
 
