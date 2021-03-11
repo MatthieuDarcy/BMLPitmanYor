@@ -16,6 +16,11 @@ c) Main results for the general process
 ## II/ How to sample from the Pitman-Yor process?
 
 ***Several methods and several cases***
+-Brownian movement
+
+-Chinese restaurant?
+
+-Special cases
 
 
 ## III/ Applications to real world data
