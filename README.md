@@ -34,6 +34,14 @@ c) Main results for the general process
 -Special cases
 
 
+
+
 ## III/ Applications to real world data
 
 ***Find a case of application***
+
+
+# References
+
+https://cims.nyu.edu/~bourgade/papers/MasterThesis.pdf
+Kingman, J.(1993).Poisson Processes. Clarendon, Oxford
