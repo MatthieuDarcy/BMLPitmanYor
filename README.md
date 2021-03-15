@@ -44,4 +44,5 @@ c) Main results for the general process
 # References
 
 https://cims.nyu.edu/~bourgade/papers/MasterThesis.pdf
+
 Kingman, J.(1993).Poisson Processes. Clarendon, Oxford
