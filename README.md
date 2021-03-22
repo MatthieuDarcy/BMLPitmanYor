@@ -12,7 +12,7 @@ DOIZE Antoine
 
 ORIOL Benoit
 
-# Temporary plan
+# Layout
 
 
 ## I/ Theoretical aspects
@@ -29,16 +29,17 @@ c) Main results for the general process
 ***Several methods and several cases***
 -Brownian movement
 
--Chinese restaurant?
+-Chinese restaurant
 
--Special cases
-
-
+-Stick breaking
 
 
-## III/ Applications to real world data
 
-***Find a case of application***
+
+
+## III/ Applications to a toy model
+
+Collapsed Gibbs sampler applied to GMM
 
 
 # References
