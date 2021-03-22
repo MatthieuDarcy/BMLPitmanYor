@@ -27,7 +27,8 @@ c) Main results for the general process
 ## II/ How to sample from the Pitman-Yor process?
 
 ***Several methods and several cases***
--Brownian movement
+
+-Brownian movement and Bessel processes
 
 -Chinese restaurant
 
